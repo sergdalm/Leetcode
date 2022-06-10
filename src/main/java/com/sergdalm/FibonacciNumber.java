@@ -3,6 +3,7 @@ package com.sergdalm;
 /**
  * No: 509
  * Title: Fibonacci Number
+ * Difficulty: Easy
  * <p>
  * The Fibonacci numbers, commonly denoted F(n) form a sequence,
  * called the Fibonacci sequence, such that each number is the sum

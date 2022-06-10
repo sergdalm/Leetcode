@@ -1,4 +1,4 @@
-package com.sergdalm.strings;
+package com.sergdalm;
 
 /**
  * No: 509
